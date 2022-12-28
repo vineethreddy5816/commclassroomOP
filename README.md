@@ -1,5 +1,8 @@
-# Community Classroom is OP
+This tutorial is amazing !!
 
-- Kunal Kushwaha says that this community is amazing.
-- More power to kunal. love the work which your are doing for the community.
-- Anirudh Sharma finds the Community Classroom initiative really great!
+Please follow this to learn Forking, Merging and creation of pull requests with switching among the branches !!
+
+More power to you and kudos to your efforts !
+
+Thanks & Regards,
+Vineeth MSD
